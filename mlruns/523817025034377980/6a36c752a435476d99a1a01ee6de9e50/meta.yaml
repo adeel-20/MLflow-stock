@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/523817025034377980/6a36c752a435476d99a1a01ee6de9e50/artifacts
+end_time: 1680683669931
+entry_point_name: ''
+experiment_id: '523817025034377980'
+lifecycle_stage: active
+run_id: 6a36c752a435476d99a1a01ee6de9e50
+run_name: valuable-skunk-180
+run_uuid: 6a36c752a435476d99a1a01ee6de9e50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680683662421
+status: 3
+tags: []
+user_id: adeel

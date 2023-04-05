@@ -1,0 +1,12 @@
+creation_timestamp: 1680685239644
+current_stage: None
+description: ''
+last_updated_timestamp: 1680685239644
+name: Stock-Prediction
+run_id: 79632da3f94c4de39c6261b49b7bddda
+run_link: ''
+source: mlflow-artifacts:/523817025034377980/79632da3f94c4de39c6261b49b7bddda/artifacts/stock-prediction-model
+status: READY
+status_message: null
+user_id: null
+version: 1

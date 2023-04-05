@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/523817025034377980/ffe5af10417b4d1c9e06d714c607342c/artifacts
+end_time: 1680676784124
+entry_point_name: ''
+experiment_id: '523817025034377980'
+lifecycle_stage: active
+run_id: ffe5af10417b4d1c9e06d714c607342c
+run_name: nebulous-mouse-404
+run_uuid: ffe5af10417b4d1c9e06d714c607342c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680676774379
+status: 3
+tags: []
+user_id: adeel

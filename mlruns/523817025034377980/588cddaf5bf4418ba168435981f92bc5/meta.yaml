@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/523817025034377980/588cddaf5bf4418ba168435981f92bc5/artifacts
+end_time: 1680683961744
+entry_point_name: ''
+experiment_id: '523817025034377980'
+lifecycle_stage: active
+run_id: 588cddaf5bf4418ba168435981f92bc5
+run_name: Sklearn Model
+run_uuid: 588cddaf5bf4418ba168435981f92bc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680683961649
+status: 4
+tags: []
+user_id: adeel
